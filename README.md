@@ -8,8 +8,7 @@ Através desse código você consegue gerar a tabela do brasileirão da serie A,
 - Tabelas
 - Artilharia
 - Lista Fases
-- Rodads
-- Rodada
+- Rodadas
 - Partidas ao vivo 
 
 O programa gera um arquivo xml e um arquivo json com as informações da tabela do Brasileirão seria A para que possa ser consumido no front-end
